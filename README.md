@@ -1,4 +1,6 @@
-# This repository show an example of the a PWA to read news.
+# Projeto realizado no Labs da Digital Innovation One
+
+### Criando uma aplicação ReactJS de notícias utilizando PWA
 
 Live code to [Digital Innovation One](https://digitalinnovation.one/)
 
